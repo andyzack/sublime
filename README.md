@@ -7,11 +7,6 @@
 > * Instant Project Switch
 > * Customize Anything
 
-
-Quick Skip Next. Quick Add Next (Ctrl+D) is one of the most popular editing commands in Sublime Text. It's now been complemented with Quick Skip Next (Ctrl+K, Ctrl+D), to skip over matches, so you can select just the ones you want:
-
-
-
 ## Plugins
 
 * [Package Control](https://sublime.wbond.net/installation)
@@ -26,11 +21,13 @@ Quick Skip Next. Quick Add Next (Ctrl+D) is one of the most popular editing comm
 * [ColorHighlighter](https://packagecontrol.io/packages/Color%20Highlighter) 
 	Plugin which underlays hex colorcodes with their real color 
 
+* [DocBlockr](https://github.com/spadgos/sublime-jsdocs) 
+	DocBlockr makes writing documentation a breeze 
 
 
 ## How to install
 
-With Package Control:
+### Recommended with Package Control:
 1. Ctrl+Shift+P then select Package Control: Install Package
 2. Enter your favourite plugin name and install
 3. Restart ST editor (if required)
